@@ -1,4 +1,4 @@
-![Quantum Algorithm Engine](https://github.com/user-attachments/assets/46c586df-e757-4a28-90dc-279abd884107)
+![Quantum Algorithm Engine](https://github.com/user-attachments/assets/2e78c107-1a64-460a-be9a-d1c84fd46c2c)
 
 #
 
