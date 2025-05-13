@@ -30,3 +30,5 @@ Evaluating the scientific merit of the description of quantum algorithm engines 
 [Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation)
 <br>
 [Theoretical Engine](https://github.com/s0urceduty/Theoretical_Engine)
+<br>
+[Quantum Engine](https://chatgpt.com/g/g-67a43c96f6d481919c705965019312be-quantum-engine)
