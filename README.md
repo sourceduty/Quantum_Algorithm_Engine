@@ -34,3 +34,5 @@ Evaluating the scientific merit of the description of quantum algorithm engines 
 [Quantum Engine](https://chatgpt.com/g/g-67a43c96f6d481919c705965019312be-quantum-engine)
 <br>
 [Quantum](https://github.com/sourceduty/Quantum)
+<br>
+[Quantum Sim Engine](https://chatgpt.com/g/g-6870b992574c8191b0d0fb69df0ff03b-quantum-sim-engine)
